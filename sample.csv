@@ -1,0 +1,8 @@
+orf,annotation,plus-minus,start,stop,partial
+orf1R,replicating factor (truncated),+,1,300,5
+orf2L,membrane porin,-,802,1800,
+orf3L,hypothetical protein,-,1870,2818,
+orf4R,serine protease,+,2565,3899,
+orf5R,hypothetical protein,+,3991,4654,
+orf6R,kinase protein,+,4689,5333,
+orf7,surface protein,+,5356,5457,3
